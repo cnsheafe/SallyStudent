@@ -1,0 +1,30 @@
+* {
+  font-family: Quicksand, courier, serif;
+}
+
+.contact {
+  line-height: 0.1em;
+}
+
+.edu, .employment, .skills {
+  border: 3px solid blue;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.college, .job {
+   margin-top: 10px;
+  margin-left: 20px;
+}
+
+.employment {
+  line-height: 1em;
+}
+
+.job {
+  line-height: 1em;
+}
+
+.title {
+  color: rgb(45,78,150);
+}
